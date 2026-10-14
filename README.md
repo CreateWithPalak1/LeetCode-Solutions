@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
