@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
@@ -37,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
