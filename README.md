@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0326-power-of-three](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Stack
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
