@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0705-design-hashset](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Hash Table
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
