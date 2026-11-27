@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
@@ -55,9 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/CreateWithPalak1/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
